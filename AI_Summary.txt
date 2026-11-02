@@ -1,3 +1,4 @@
 我跟AI問了如何正確插入圖片
 還有些CSS排版問題
 照片是親自晚上去拍的很模糊
+這是我的專案推送到GitHub的連結 https://github.com/jerry960202-hue/Assignment_01_Hometown
